@@ -1,0 +1,19 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfvars
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credential files (VERY IMPORTANT)
+*.json
+!architecture.json  # Use the ! to exclude a specific file if needed
+credentials/
+keys/
