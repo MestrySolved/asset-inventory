@@ -1,6 +1,10 @@
 # GCP Asset Inventory & Governance Dashboard
 An automated solution for global resource visibility, cost optimization, and security auditing.
 
+<p align="center">
+  <img src="assets/Architecture.png" alt="GCP Asset Inventory Architecture" width="800">
+</p>
+
 ## 🚀 The Solution
 This project automates the extraction of metadata from all GCP resources within an organization. It provides a centralized "Single Pane of Glass" for infrastructure teams to track asset health, billing, and security compliance.
 
