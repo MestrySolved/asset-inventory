@@ -2,7 +2,7 @@
 An automated solution for global resource visibility, cost optimization, and security auditing.
 
 <p align="center">
-  <img src="assets/Architecture.png" alt="GCP Asset Inventory Architecture" width="800">
+  <img src="images/Architecture.png" alt="GCP Asset Inventory Architecture" width="800">
 </p>
 
 ## 🚀 The Solution
