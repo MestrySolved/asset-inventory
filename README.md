@@ -7,9 +7,8 @@ This project automates the extraction of metadata from all GCP resources within 
 ## 🛠️ Tech Stack
 - **Source:** Google Cloud Asset Inventory API
 - **Storage:** BigQuery (Data Warehousing)
-- **Processing:** SQL (Filtering & Aggregation)
 - **Visualization:** Looker / Data Studio
-- **Deployment:** Terraform (IaC)
+- **Deployment:** Terraform (IaC), CLI
 
 ## 💡 Key Use Cases
 - **Cost Optimization:** Identified 20% waste in orphaned unattached persistent disks.
